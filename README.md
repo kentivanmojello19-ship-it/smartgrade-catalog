@@ -6,7 +6,7 @@ SmartGrade Solutions is a premium, aesthetic, and functional web-based catalog. 
 
 ## 🚀 Live Demo
 Access your live catalog here:
-`https://[your-github-username].github.io/smartgrade-catalog/`
+`https://index 2.html.github.io/smartgrade-catalog/`
 
 ---
 
@@ -26,4 +26,4 @@ Access your live catalog here:
 
 ---
 **Barato ra!**
-*Developed for Jane Kathleen G. Manguilimotan*
+
